@@ -7,4 +7,5 @@
 #apache/rocketmq:4.9.6
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #xuxueli/xxl-job-admin:2.3.0
-whyour/qinglong
+#whyour/qinglong
+minio
