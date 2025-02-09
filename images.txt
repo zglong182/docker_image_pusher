@@ -8,4 +8,4 @@
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #xuxueli/xxl-job-admin:2.3.0
 #whyour/qinglong
-minio
+minio/minio
