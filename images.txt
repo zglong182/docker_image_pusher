@@ -9,4 +9,5 @@
 #xuxueli/xxl-job-admin:2.3.0
 #whyour/qinglong
 #minio/minio
-wiznote/wizserver
+#wiznote/wizserver
+jasminexzzz/blossom
