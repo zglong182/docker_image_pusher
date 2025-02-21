@@ -11,5 +11,6 @@
 #minio/minio
 #wiznote/wizserver
 #jasminexzzz/blossom
-openapitools/openapi-generator-cli
-openapitools/openapi-generator-online
+#openapitools/openapi-generator-cli
+#openapitools/openapi-generator-online
+openapitools/openapi-generator
