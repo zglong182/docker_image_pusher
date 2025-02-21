@@ -10,4 +10,6 @@
 #whyour/qinglong
 #minio/minio
 #wiznote/wizserver
-jasminexzzz/blossom
+#jasminexzzz/blossom
+openapitools/openapi-generator-cli
+openapitools/openapi-generator-online
