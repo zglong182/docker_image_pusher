@@ -13,4 +13,5 @@
 #jasminexzzz/blossom
 #openapitools/openapi-generator-cli
 #openapitools/openapi-generator-online
-openapitools/openapi-generator
+#openapitools/openapi-generator
+b3log/siyuan
