@@ -30,10 +30,10 @@
 #supabase/supavisor:2.9.5
 #node:22-alpine
 
-docker.elastic.co/elasticsearch/elasticsearch:9.1.2
-docker.elastic.co/kibana/kibana:9.1.2
-curlimages/curl:latest
-nacos/nacos-server:latest
-redis:7.2.5
-apache/rocketmq:5.3.2
-
+#docker.elastic.co/elasticsearch/elasticsearch:9.1.2
+#docker.elastic.co/kibana/kibana:9.1.2
+#curlimages/curl:latest
+#nacos/nacos-server:latest
+#redis:7.2.5
+#apache/rocketmq:5.3.2
+sonarqube:lts-community
