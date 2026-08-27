@@ -37,4 +37,4 @@
 #redis:7.2.5
 #apache/rocketmq:5.3.2
 #sonarqube:lts-community
-sonarqube:community-build
+sonarqube:community
