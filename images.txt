@@ -39,8 +39,10 @@
 #sonarqube:lts-community
 #sonarqube:community
 
-mysql:8.4
-redis:7-alpine
-eclipse-temurin:17-jre-alpine
-ghcr.io/hkuds/lightrag:latest
-nginx:1.27-alpine
+#mysql:8.4
+#redis:7-alpine
+#eclipse-temurin:17-jre-alpine
+#ghcr.io/hkuds/lightrag:latest
+#nginx:1.27-alpine
+
+postgres:17
